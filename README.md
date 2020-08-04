@@ -3,7 +3,7 @@
 My name is Sayantan Bhattacharya. I'm a solution architect from India. You can find me on [![Twitter][1.2]][1]
 
 <!-- icons without padding -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/krat0soverdrive
