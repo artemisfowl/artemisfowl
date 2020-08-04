@@ -1,4 +1,4 @@
-#### Hello there <img src="https://raw.githubusercontent.com/artemisfowl/artemisfowl/master/assets/gifs/wave.gif" width="30px">
+# Hello there <img src="https://raw.githubusercontent.com/artemisfowl/artemisfowl/master/assets/gifs/wave.gif" width="30px">
 
 My name is Sayantan Bhattacharya. I'm a solution architect from India. You can find me on [![Twitter][1.2]][1]
 
