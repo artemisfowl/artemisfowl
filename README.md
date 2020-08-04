@@ -4,6 +4,7 @@ My name is Sayantan Bhattacharya. I'm a solution architect from India. You can f
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 
 <!-- icons without padding -->
 [1.2]: http://i.imgur.com/wWzX9uB.png
