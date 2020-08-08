@@ -5,6 +5,8 @@ office, I prefer to program on various languages in different fields, whichever 
 I am learning JS and React for fun. You can find me on [![Twitter][1.2]][1].
 
 ### 💽 OS
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ### 🔧 Tools
