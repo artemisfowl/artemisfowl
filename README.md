@@ -9,6 +9,9 @@ I am learning JS and React for fun. You can find me on [![Twitter][1.2]][1].
 
 ### 🔧 Tools
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+### ☁️  Cloud
 
 ### ⚙️  Programming Languages
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
