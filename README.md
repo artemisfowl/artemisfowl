@@ -10,7 +10,7 @@ I am learning JS and React for fun. You can find me on [![Twitter][1.2]][1].
 
 ### ⚙️  Programming Languages
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 
 <!-- icons without padding -->
 [1.2]: http://i.imgur.com/wWzX9uB.png
