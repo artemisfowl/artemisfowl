@@ -2,7 +2,15 @@
 
 Welcome to my GHub profile. I am a simple engineer who likes to tinker with electronics as well as programming. For the people who know me professionally, I am a developer, but when I am not in
 office, I prefer to program on various languages in different fields, whichever fancies my attention. That being said, I love programming in C and C++(primarily) and also dabble in Python. Currently
-I am learning JS and React for fun. You can find me on [![Twitter][1.2]][1].
+I am revisiting C for fun. You can find me on [![Twitter][1.2]][1].
+
+my geekcode:
+
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.1
+GE/S d-(-)>- s+(+): a C++++(++++)$>++++ UBLA++++>$ P+(+)>+ L++++(++++)>++++ !E---(---)>--- W-(-)$>- N++(++) !o K-? w--$ !O- !M- !V- !PS PE@ Y+(+)>+ PGP+++(+++)$>+++ t+(+)>+ 5+ !X R++(++)>++ tv@
+b+++(+++)>+++ DI+++(+++) D---(---)>--- G e++ h--- r+++
+------END GEEK CODE BLOCK------
 
 ### 💽 OS
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
