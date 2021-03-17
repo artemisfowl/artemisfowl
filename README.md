@@ -6,11 +6,13 @@ I am revisiting C for fun. You can find me on [![Twitter][1.2]][1].
 
 my geekcode:
 
+```c
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.1
 GE/S d-(-)>- s+(+): a C++++(++++)$>++++ UBLA++++>$ P+(+)>+ L++++(++++)>++++ !E---(---)>--- W-(-)$>- N++(++) !o K-? w--$ !O- !M- !V- !PS PE@ Y+(+)>+ PGP+++(+++)$>+++ t+(+)>+ 5+ !X R++(++)>++ tv@
 b+++(+++)>+++ DI+++(+++) D---(---)>--- G e++ h--- r+++
 ------END GEEK CODE BLOCK------
+```
 
 ### 💽 OS
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
