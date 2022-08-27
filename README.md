@@ -21,6 +21,7 @@ R++(++)>++ tv@ b+++(+++)>+++ DI+++(+++) D---(---)>--- G e++ h--- r+++
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ### 🔧 Tools
+![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
